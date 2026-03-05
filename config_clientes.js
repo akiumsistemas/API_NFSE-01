@@ -35,5 +35,11 @@ module.exports = [
         cnpj: "05436280000107",
         pfx: "./certificados/UNICARDIO SERVICOS MEDICOS LTDA_senha 0727n8x1j2A_venc 09-07-26.pfx",
         senha: "0727n8x1j2A"
-    }
+    },
+    {
+        nome: "GUELFO",
+        cnpj: "42216925000114",
+        pfx: "./certificados/certificado.pfx",
+        senha: "42216925"
+    }    
 ];
